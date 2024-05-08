@@ -1,4 +1,4 @@
-# Boa vindas ao Bootcamp de Dados MIA
+# Boa vindas ao repositório de Bootcamp de Dados MIA
 
 Primeiro bootcamp de dados [MIA](https://www.instagram.com/mulheres.em.ia/) realizado no perído de 30/07 à 27/08/22
 
